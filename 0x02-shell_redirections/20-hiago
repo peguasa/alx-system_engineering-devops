@@ -1,2 +1,2 @@
-#!/bib/bash
-tr -d C | tr -d c
+#!/bin/bash
+tr -d 'c' | tr -d 'C'
